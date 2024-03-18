@@ -17,4 +17,4 @@
 
 # Summary:
 - The Python BDD Testing Framework facilitates the adoption of best testing practices and promotes efficient software development through the BDD approach. It offers a reliable mechanism for thoroughly testing Python applications while fostering collaboration and ensuring software quality and reliability.
-- The project includes 11 successful test scenarios, providing comprehensive coverage of the tested functionalities.
+- The project includes 10 successful test scenarios, providing comprehensive coverage of the tested functionalities.

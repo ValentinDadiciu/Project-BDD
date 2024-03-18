@@ -5,7 +5,6 @@ Feature: Add to cart
 
   Scenario: Add to cart
     When I enter "troy" in the search filed
-    And I click the search magnifying button
     And I click size button
     And I click color button
     And I click Add to cart button
